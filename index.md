@@ -2,27 +2,27 @@
 
 ## About Me
 
-I'm Hema, a master's student at UC San Diego. I'm from Bangalore, which is also known as the "Silicon Valley" of India :india:. I travelled to the United States for my masters :us:. I'm enjoying the beatiful beaches of San Diego :beach_umbrella:
+I'm Hema, a master's student at UC San Diego. I'm from Bangalore, which is also known as the "Silicon Valley" of India :india:. I travelled to the United States for my masters :us:. I'm enjoying the beatiful beaches of San Diego :beach_umbrella:  
 
-I live by the moto 😇
-> Live life without any regrets 
+I live by the moto 😇  
+> Live life without any regrets   
 
-![This is me!](hema.png)
+![This is me!](hema.png)  
 
 Read about my:  
 :woman_technologist: [Technical Background and Interests](#technical-background-and-interests)  
 :earth_asia: [My Hobbies](#my-hobbies)  
 :page_facing_up: [My Resume](#my-resume)  
-:telephone_receiver: [Contact Me](#you-can-get-in-touch-with-me-on)  
-:woman: [Back to about me](#about-me)
+:telephone_receiver: [Contact Me](#you-can-get-in-touch-with-me-on)    
+:woman: [Back to about me](#about-me)  
 
 ## Technical Background and Interests
-- My first introduction to Computer Science was in 11th grade. I vividly remember how terrible I was in my Object Oriented Programming with C++ class where my peers were way ahead of me. I worked hard to keep up with the course and unknowingly, started falling in love with programming :computer:  
-- This pursuaded me to do my my undergrad in computer science at MS Ramaiah Institute of Technology, Bangalore, India  :woman_student:
-- Post my undergrad, I worked in the industry for a couple of years where I gained hands-on-skills in web development, cloud computing, data engineering, databases and data visualization. I felt getting way too comfortable at my work...  :woman_technologist:
-- Hence, to challenge myself and expand my knowlege, I decided to pursue my masters :books: 
-- And what a journey it has been - there is so much I have learnt not just technically but also personally as I have stepped out of the comfort zone of my family and loved ones :v: 
-- I want to work as a Software Engineering solving challenging problem and writing useful code :desktop_computer:
+- My first introduction to Computer Science was in 11th grade. I vividly remember how terrible I was in my Object Oriented Programming with C++ class where my peers were way ahead of me. I worked hard to keep up with the course and unknowingly, started falling in love with programming :computer:    
+- This pursuaded me to do my my undergrad in computer science at MS Ramaiah Institute of Technology, Bangalore, India  :woman_student:  
+- Post my undergrad, I worked in the industry for a couple of years where I gained hands-on-skills in web development, cloud computing, data engineering, databases and data visualization. I felt getting way too comfortable at my work...  :woman_technologist:  
+- Hence, to challenge myself and expand my knowlege, I decided to pursue my masters at University of California, San Diego :books:  
+- And what a journey it has been - there is so much I have learnt not just technically but also personally as I am away my family and loved ones :v:   
+- I would like to work as a Software Engineering where I can solve challenging problems and write useful code :desktop_computer:  
 
 
 ## My Hobbies
@@ -44,7 +44,7 @@ Read about my:
   - GradWIC, WIC and SWE are running the EDGE program to promote STEM education among high school girls. Check them out [here](https://edgeucsd.wixsite.com/edge)
   
 3. **Dancing** :dancer:  
-   Though not very much in touch, I occasionally practise dancing. I have learnt the Indian Dance form, Bharatanatyam and truly enjoy it  
+   Though not very much in touch, I practise dancing occasionally. I have learnt the Indian Dance form, Bharatanatyam and truly enjoy it  
 
 
 ## My Resume

@@ -4,7 +4,7 @@
 
 I'm Hema, a master's student at UC San Diego. I'm from Bangalore, which is also known as the "Silicon Valley" of India :india:. I travelled to the United States for my masters :us:. I'm enjoying the beatiful beaches of San Diego :beach_umbrella:
 
-I live by the moto :innocent:
+I live by the moto 😇
 > Live life without any regrets 
 
 ![This is me!](hema.png)

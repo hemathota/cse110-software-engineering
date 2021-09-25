@@ -10,14 +10,19 @@ I live by the moto:
 ![This is me!](hema.png)
 
 Read about my:
-[Technical Interests](#technical-interests)
-[My Hobbies](#my-hobbies)
-[My Resume](#my-resume)
-[Social Media Links](#social-media)
+[Technical Interests](#technical-background-and-interests)  
+[My Hobbies](#my-hobbies)  
+[My Resume](#my-resume)  
+[Social Media Links](#social-media)  
+[Back to about me](#about-me)
 
-## Technical Interests
+## Technical Background and Interests
+
 
 ## My Hobbies
+- Travelling: I enjoy travelling and getting to know the culture of different places. I like making detailed itineraries for my travels   
+- Outreach: I organize and participate in community outreach activities. In particular, I'm passionate about promoting education among girls and have worked with different schools and organizations for the same. I'm the Grad Women-In-Computing K-12 outreach co-chair.  
+- Dancing: Though not very much in touch, I occasionally practise dancing. I have learnt the Indian Dance form, Bharatanatyam and truly enjoy it  
 
 
 ## My Resume

@@ -2,19 +2,19 @@
 
 ## About Me
 
-I'm Hema, a master's student at UC San Diego. I'm from Bangalore, which is also known as the "Silicon Valley" of India :india:. I travelled to the United States for my masters .I'm enjoying the beatiful beaches of San Diego :beach_umbrella:
+I'm Hema, a master's student at UC San Diego. I'm from Bangalore, which is also known as the "Silicon Valley" of India :india:. I travelled to the United States for my masters :us:. I'm enjoying the beatiful beaches of San Diego :beach_umbrella:
 
-I live by the moto:  
-> Live life without any regrets :smile:
+I live by the moto :innocent:
+> Live life without any regrets 
 
 ![This is me!](hema.png)
 
 Read about my:  
-[:woman_technologist: Technical Background and Interests](#technical-background-and-interests)  
-[:earth_asia: My Hobbies](#my-hobbies)  
-[:page_facing_up: My Resume](#my-resume)  
-[:telephone_receiver: Contact Me](#you-can-get-in-touch-with-me-on)  
-[:woman: Back to about me](#about-me)
+:woman_technologist: [Technical Background and Interests](#technical-background-and-interests)  
+:earth_asia: [My Hobbies](#my-hobbies)  
+:page_facing_up: [My Resume](#my-resume)  
+:telephone_receiver: [Contact Me](#you-can-get-in-touch-with-me-on)  
+:woman: [Back to about me](#about-me)
 
 ## Technical Background and Interests
 - My first introduction to Computer Science was in 11th grade. I vividly remember how terrible I was in my Object Oriented Programming with C++ class where my peers were way ahead of me. I worked hard to keep up with the course and unknowingly, started falling in love with programming :computer:  
@@ -22,6 +22,7 @@ Read about my:
 - Post my undergrad, I worked in the industry for a couple of years where I gained hands-on-skills in web development, cloud computing, data engineering, databases and data visualization. I felt getting way too comfortable at my work...  :woman_technologist:
 - Hence, to challenge myself and expand my knowlege, I decided to pursue my masters :books: 
 - And what a journey it has been - there is so much I have learnt not just technically but also personally as I have stepped out of the comfort zone of my family and loved ones :v: 
+- I want to work as a Software Engineering solving challenging problem and writing useful code :desktop_computer:
 
 
 ## My Hobbies
@@ -29,13 +30,13 @@ Read about my:
    - I enjoy travelling and getting to know the culture of different places.  
    - I like making detailed itineraries for my travels.   
    - The top countries and experiences on my bucket list are:  
-     - [x] Switzerland and alps  
-     - [ ] Vietnam and experience Hoi An's traditional culture    
-     - [ ] Italy and eat pizza in Naples  
-     - [ ] Nicargua and hike to a volcano  
-     - [ ] Iceland and catch the northern lights  
+     - [x] Switzerland and alps :mountain_snow:  
+     - [ ] Vietnam and experience Hoi An's traditional culture :flags:     
+     - [ ] Italy and eat pizza in Naples :pizza:   
+     - [ ] Nicargua and hike to a volcano :volcano:  
+     - [ ] Iceland and catch the northern lights :iceland:    
 
-2.  **Community Outreach** :girl::girl::girl:
+2.  **Community Outreach** :girl: :girl: :girl:
   - I organize and participate in various community outreach activities.   
   - In particular, I'm passionate about promoting education among girls :book:
   - I have worked with different schools and organizations for the same  

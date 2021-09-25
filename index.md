@@ -17,11 +17,11 @@ Read about my:
 :woman: [Back to about me](#about-me)  
 
 ## Technical Background and Interests
-- My first introduction to Computer Science was in 11th grade. I vividly remember how terrible I was in my Object Oriented Programming with C++ class where my peers were way ahead of me. I worked hard to keep up with the course and unknowingly, started falling in love with programming :computer:    
+- My first introduction to Computer Science was in 11th grade. I vividly remember how terrible I was in my Object Oriented Programming with C++ class and my peers were way ahead of me. I worked hard to keep up with the course and unknowingly, started falling in love with programming :computer:    
 - This pursuaded me to do my my undergrad in computer science at MS Ramaiah Institute of Technology, Bangalore, India  :woman_student:  
 - Post my undergrad, I worked in the industry for a couple of years where I gained hands-on-skills in web development, cloud computing, data engineering, databases and data visualization. I felt getting way too comfortable at my work...  :woman_technologist:  
 - Hence, to challenge myself and expand my knowlege, I decided to pursue my masters at University of California, San Diego :books:  
-- And what a journey it has been - there is so much I have learnt not just technically but also personally as I am away my family and loved ones :v:   
+- And what a journey it has been - there is so much I have learnt not just technically but also personally as I am away my family :v:   
 - I would like to work as a Software Engineering where I can solve challenging problems and write useful code :desktop_computer:  
 
 
@@ -30,11 +30,11 @@ Read about my:
    - I enjoy travelling and getting to know the culture of different places.  
    - I like making detailed itineraries for my travels.   
    - The top countries and experiences on my bucket list are:  
-     - [x] Switzerland and alps :mountain_snow:  
+     - [x] Switzerland and visit the alps :mountain_snow:  
      - [ ] Vietnam and experience Hoi An's traditional culture :flags:     
      - [ ] Italy and eat pizza in Naples :pizza:   
-     - [ ] Nicargua and hike to a volcano :volcano:  
-     - [ ] Iceland and catch the northern lights :iceland:    
+     - [ ] Nicargua and hike a volcano :volcano:  
+     - [ ] Iceland and experience the northern lights :iceland:    
 
 2.  **Community Outreach** :girl: :girl: :girl:
   - I organize and participate in various community outreach activities.   

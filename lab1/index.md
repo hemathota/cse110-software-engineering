@@ -9,7 +9,7 @@ I live by the moto:
 
 ![This is me!](hema.png)
 
-Read about my:
+Read about my:  
 [Technical Interests](#technical-background-and-interests)  
 [My Hobbies](#my-hobbies)  
 [My Resume](#my-resume)  
@@ -17,12 +17,29 @@ Read about my:
 [Back to about me](#about-me)
 
 ## Technical Background and Interests
+- My first introduction to Computer Science was in 11th grade. I vividly remember how terrible I was in my Object Oriented Programming with C++ class where my peers were way ahead of me. I worked hard to keep up with the course and unknowingly, started falling in love with programming   
+- This pursuaded me to do my my undergrad in computer science at MS Ramaiah Institute of Technology, Bangalore, India  
+- Post my undergrad, I worked in the industry for a couple of years where I gained hands-on-skills in web development, cloud computing, data engineering, databases and data visualization. I felt getting way too comfortable at my work...  
+- Hence, to challenge myself and expand my knowlege, I decided to pursue my masters  
+- And what a journey it has been - there is so much learning not just technically but also personally as I have stepped out of the comfort zone of my family and loved ones  
 
 
 ## My Hobbies
-- Travelling: I enjoy travelling and getting to know the culture of different places. I like making detailed itineraries for my travels   
-- Outreach: I organize and participate in community outreach activities. In particular, I'm passionate about promoting education among girls and have worked with different schools and organizations for the same. I'm the Grad Women-In-Computing K-12 outreach co-chair.  
-- Dancing: Though not very much in touch, I occasionally practise dancing. I have learnt the Indian Dance form, Bharatanatyam and truly enjoy it  
+1 **Travelling**: 
+    - I enjoy travelling and getting to know the culture of different places.  
+    - I like making detailed itineraries for my travels.   
+    - The top countries and experiences on my bucket list are:  
+        [x] Switzerland and alps  
+        [ ] Vietnam and experience Hoi An's traditional culture    
+        [ ] Italy and eat pizza in Naples  
+        [ ] Nicargua and hike to a volcano  
+        [ ] Iceland and catch the northern lights  
+2 **Outreach**: I organize and participate in community outreach activities.   
+  - In particular, I'm passionate about promoting education among girls  
+  - I have worked with different schools and organizations for the same  
+  - I'm the Grad Women-In-Computing K-12 outreach co-chair. You can know more about GradWIC [here](https://gradwic.ucsd.edu/)  
+  - GradWIC, WIC and SWE are running the EDGE program to promote STEM education among high school girls. Check them out [here](https://edgeucsd.wixsite.com/edge)  
+3 **Dancing**: Though not very much in touch, I occasionally practise dancing. I have learnt the Indian Dance form, Bharatanatyam and truly enjoy it  
 
 
 ## My Resume
